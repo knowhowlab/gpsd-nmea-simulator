@@ -1,4 +1,8 @@
 # gpsd-nmea-simulator
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dimi)
+
+
 Docker Image with gpsd and NMEA183 simulator
 
 gpsd is a service daemon that monitors one or more GPSes or AIS receivers attached to a host computer 
